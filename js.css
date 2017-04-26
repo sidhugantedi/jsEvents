@@ -32,6 +32,9 @@ body {
 .jumbotron {
   background-color: rgba(0,0,0,0.5);
 }
+.jh {
+  background-color: rgba(0,0,0,0.5);
+}
 .jh h1 {
   color: #000;
   margin: 0 auto;
